@@ -27,4 +27,4 @@ O projeto **Tutorial de C para iniciantes** é um curso, que foi ministrado pelo
 
 - [Youtube](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=0s)
 
-<p align="center"> Desenvolvido por Pedro Craveiro 🌐</p>
+<p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐</p>
