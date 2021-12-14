@@ -6,11 +6,6 @@
 
 ## 💡 Índice
 
-<!-- Logo C++ Animada 
-<h1>
-    <img src="photo/c++.gif">
-</h1> -->
-
 - [Sobre](#-sobre)
 - [Linguagem utilizada](#-Linguagem-utilizada)
 - [Onde encontrar o curso?](#-onde-encontrar-o-curso)
