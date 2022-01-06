@@ -13,7 +13,7 @@
 
 ## 📑 Sobre:
 
-O projeto **Tutorial de C para iniciantes** é um curso da linguagem de programação C - totalmente gratuito e em inglês -, que foi ministrado pelo **Mike Dane**, membro da **Giraffe Academy**. 
+O curso **''Tutorial de C para iniciantes''** é um curso da linguagem de programação C - totalmente gratuito e em inglês -, que foi ministrado pelo **Mike Dane,** membro da **Giraffe Academy** no canal do Youtube da **Freecodecamp.** 
 
 ## 📑 Linguagem utilizada:
 
