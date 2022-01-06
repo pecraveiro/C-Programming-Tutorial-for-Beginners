@@ -4,10 +4,6 @@
     <img src="https://ik.imagekit.io/elankfmjpxmn/pngegg__1__ChPg0oR7ii.png?updatedAt=1636677227741"> <!-- URL da imagen -->
 </h1>
 
-<h1 align="center">
-    <img src="https://ik.imagekit.io/elankfmjpxmn/learnC-codeacademy_SVvvjNBNOI4.PNG?updatedAt=1641511792019"> <!-- URL da imagen -->
-</h1>
-
 ## 💡 Índice
 
 - [Sobre](#-sobre)
