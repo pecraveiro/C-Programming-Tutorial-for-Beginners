@@ -30,6 +30,7 @@ If you want to support my learning, making it possible to carry out all the proj
 
 <details>
   <summary>Paypal</summary>
+    
   ```
   https://www.paypal.com/donate/?hosted_button_id=GU7G48HXEEXXE
   ```
@@ -37,6 +38,7 @@ If you want to support my learning, making it possible to carry out all the proj
 
 <details>
   <summary>Ethereum Address</summary>
+    
   ```
   0x76E8b1257BedD02bC38E476F296123fCecEA83E4
   ```
@@ -44,6 +46,7 @@ If you want to support my learning, making it possible to carry out all the proj
 
 <details>
   <summary>Bitcoin Address</summary>
+    
   ```
   14jRUvJEEQsdg9TSQ7gH5FJJGjt3aBc3yh
   ```
@@ -51,6 +54,7 @@ If you want to support my learning, making it possible to carry out all the proj
 
 <details>
   <summary>Pix :brazil:</summary>
+    
   ```
   pecraveiro1@gmail.com
   ```
