@@ -26,7 +26,9 @@ O curso **Learn C** de linguagem de programação C - totalmente gratuito e em i
 
 Caso você deseja apoiar o meu aprendizado, tornando possível a realização de todos os projetos do curso, da plataforma como um todo e a retirada do certificado, além de contribuir com o meu portfólio e currículo, sinta-se livre para doar. As doações não são obrigatórias e serão utilizadas apenas para incrementar meu aprendizado. ❤️ 
 
-If you want to support my learning, making it possible to carry out all the projects in the course, the platform as a whole and withdraw the certificate, in addition to contributing with my portfolio and curriculum, please feel free to donate. Donations are not required and will only be used to improve my learning. I will be very much appreciated. ❤️ You can directly donate to my Paypal, Bitcoin Addres, Ethereum Address or Pix if you are BR.
+If you want to support my learning, making it possible to carry out all the projects in the course, the platform as a whole and withdraw the certificate, in addition to contributing with my portfolio and curriculum, please feel free to donate. Donations are not required and will only be used to improve my learning. I will be very much appreciated. ❤️ 
+
+<p align="center">You can directly donate to my Paypal, Bitcoin Addres, Ethereum Address or Pix if you are BR.</p>
 
 <details>
   <summary>Paypal</summary>
