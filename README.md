@@ -12,7 +12,7 @@
 
 ## 📑 Sobre: 
 
-O curso **Learn C** de linguagem de programação C - totalmente gratuito e em inglês -, está disponível gratuitamente na plataforma **Code Academy**, todavia alguns projetos e o certificado são apenas para assinantes premium. 
+O curso **Learn C** de linguagem de programação C - totalmente gratuito e em inglês -, está disponível gratuitamente na plataforma **Code Academy**, todavia alguns projetos e o certificado são apenas para assinantes Pro. 
 
 ## 📑 Linguagem utilizada:
 
